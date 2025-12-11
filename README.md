@@ -47,9 +47,11 @@ I'm an Android Developer specialized in building scalable, production-ready appl
  
 ![JUnit](https://img.shields.io/badge/JUnit_4/5-25A162?style=for-the-badge&logo=junit5&logoColor=white) 
 ![MockK](https://img.shields.io/badge/MockK-7C4DFF?style=for-the-badge) 
+![Mockkery](https://img.shields.io/badge/Mockkery-1976D2?style=for-the-badge)
+![Turbine](https://img.shields.io/badge/Turbine-00BCD4?style=for-the-badge)
+![Truth](https://img.shields.io/badge/Truth-4285F4?style=for-the-badge)
 ![Espresso](https://img.shields.io/badge/Espresso-6D4C41?style=for-the-badge&logo=android&logoColor=white) 
-![TDD](https://img.shields.io/badge/TDD-1976D2?style=for-the-badge) 
-![CI/CD](https://img.shields.io/badge/CI/CD-FF6F00?style=for-the-badge)
+![Kover](https://img.shields.io/badge/Kover-7F52FF?style=for-the-badge)
  
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white) 
