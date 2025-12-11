@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Fatma Hegazy <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" height="45px"></h1>
-<h3 align="center">Android & Multiplatform Developer</h3>
+<h3 align="center">Android Developer | Kotlin Multiplatform</h3>
 
 <p align="center">
-Building smooth apps with clean architectures and seamless cross-platform experiences.
+Building smooth Android apps with clean architectures, and cross-platform solutions for Android & iOS.
 </p>
 
 ---
