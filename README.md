@@ -7,7 +7,7 @@ Building smooth Android apps with clean architectures, and cross-platform soluti
 
 ---
 
-## 🚀 About Me  
+## 💡 About Me  
 I'm an Android Developer specialized in building scalable, production-ready applications using modern Android development practices and Kotlin Multiplatform. Passionate about clean architecture, performance optimization, and creating seamless user experiences across platforms.
 
 ---
